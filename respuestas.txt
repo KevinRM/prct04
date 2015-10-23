@@ -1,0 +1,3 @@
+27.- Es un gestor de versiones de intérpretes de Ruby. Nos permite tener tantas versiones como queramos, 
+ya sean inferiores o superiores a la actual, y nos permite cambiar de una a otra tan sólo ejecutando un 
+comando.
