@@ -1,3 +1,8 @@
 27.- Es un gestor de versiones de intérpretes de Ruby. Nos permite tener tantas versiones como queramos, 
 ya sean inferiores o superiores a la actual, y nos permite cambiar de una a otra tan sólo ejecutando un 
 comando.
+
+34.- La diferencia es que el interprete interactivo permite ejecutar comandos de forma
+interactiva sin tener que escribirlos en un fichero primero, permite ejecutar código
+deirectamente en el interprete, mientras que el que no es interactivo tiene que recibir
+como entrada un fichero con un programa Ruby.
