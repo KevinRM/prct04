@@ -6,3 +6,6 @@ comando.
 interactiva sin tener que escribirlos en un fichero primero, permite ejecutar código
 deirectamente en el interprete, mientras que el que no es interactivo tiene que recibir
 como entrada un fichero con un programa Ruby.
+
+41.- Que PRY permite ir cambiando valores del programa y definir funciones a partir
+de el, como si estuvieramos modificando el fichero y ejecutandolo directamente.
